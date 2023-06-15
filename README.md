@@ -1,27 +1,28 @@
-# Wellness Website
 
-This repository contains the source code and files for my wellness website. The website is a front-end project built with HTML, CSS, and JavaScript. It focuses on providing information and resources for improving physical and mental well-being.
+# Wellness
+
+Wellness is a front-end website designed to promote health and wellness. It features a warm dark layout and includes product information, a home page, contact us page, and a service page.
 
 ## Features
 
-- User-friendly interface
-- Articles and blog posts on wellness topics
-- Curated external resources
-- Interactive tools for fitness, nutrition, and mindfulness
+- Warm dark layout for a soothing and relaxing user experience
+- Product page showcasing various health and wellness products
+- Home page providing an overview of the website and its purpose
+- Contact us page to allow users to get in touch with the website owners
+- Service page detailing the services offered by the website
 
-## Installation
+## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
 
-git clone https://github.com/Azanul-Rana/Welness-Pharmeacy-Website
-navigate to the directory 
-Now open it with Live server or run with file noramlly.
+## Getting Started
 
-## Usage
+1. Clone the repository:
 
-Navigate through the website to access articles, resources, and interactive tools related to wellness.
-
-
-
-## License
-
-The project is licensed under the [MIT License](LICENSE).
+  
+git clone https://github.com/your-username/wellness.git
+open the project in your favorite code editor.
+Customize the content, layout, and styles according to your needs.
+Launch the website in your web browser to preview the changes.
